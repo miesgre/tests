@@ -20,8 +20,7 @@ Please make sure you click the link above to view the contribution guidelines, t
 close #
 
 
-#### Does this PR introduce a breaking change?
-What changes might users need to make in their application due to this PR?
+#### Does this PR introduce a breaking change? What changes might users need to make in their application due to this PR?
 
 
 #### Any other comments?
